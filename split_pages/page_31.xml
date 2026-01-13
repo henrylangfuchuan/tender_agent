@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+  <w:body><w:p w14:paraId="78A548B2">
+            <w:pPr>
+                <w:keepNext/>
+                <w:keepLines/>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="360" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="2"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="44"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="44"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="18" w:name="_Toc256000120"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="44"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="44"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>四、服务费用清单</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="18"/>
+        </w:p>
+        <w:p w14:paraId="3614794D">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="37" w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>分项报价表</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6608962F">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="center" w:pos="4153"/>
+                    <w:tab w:val="right" w:pos="8306"/>
+                </w:tabs>
+                <w:wordWrap w:val="0"/>
+                <w:snapToGrid w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="316E7FE5">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="156" w:beforeLines="50" w:line="360" w:lineRule="auto"/>
+                <w:ind w:left="960" w:hanging="960"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:bCs/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>注：（</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>）本项目合同采用固定总价，合同价格在合同有效期内不变。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0A6A8F2C">
+            <w:pPr>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:left="150" w:firstLine="480" w:firstLineChars="200"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="21"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:bCs/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:bCs/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:bCs/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>）本报价包括：材料费、人工费、增值税、运费、保险费、技术服务费和其他杂费，为固定不变价格，招标方不再另行支付任何其他费用。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="50CCCD1B">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:left="150" w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:bCs/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:headerReference r:id="rId114" w:type="first"/>
+                    <w:footerReference r:id="rId117" w:type="first"/>
+                    <w:headerReference r:id="rId112" w:type="default"/>
+                    <w:footerReference r:id="rId115" w:type="default"/>
+                    <w:headerReference r:id="rId113" w:type="even"/>
+                    <w:footerReference r:id="rId116" w:type="even"/>
+                    <w:pgSz w:w="12242" w:h="15842"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="720" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        </w:body>
+</w:document>

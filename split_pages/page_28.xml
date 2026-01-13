@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+  <w:body><w:p w14:paraId="20B2D653">
+            <w:pPr>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="2"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="32"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="16" w:name="_Toc256000118"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="32"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+                <w:t>二、投标函</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="16"/>
+        </w:p>
+        <w:p w14:paraId="4E40FCB1">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">      招标人</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="431A6970">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="ar-SA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>1．我方已仔细研究了</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">        （项目名称）</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>招标项目招标文件的全部内容，愿意以</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:spacing w:val="-4"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>开标一览表中</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-5"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>的投标报价进行投标</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（其中，增值税税率为</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">   </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>），服务期限：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">   </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>，按合同约定完成服务工作。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="14C08B6B">
+            <w:pPr>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="1038"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:right="-1" w:firstLine="480" w:firstLineChars="200"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>．我方的投标文件包括下列内容：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="12F9AB7B">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（1）投标函及投标函附录；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0EF3C3C9">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（2）法定代表人身份证明或授权委托书；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1BE3771A">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="ar-SA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（3）联合体协议书（如有）；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="721C6A00">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（4）投标保证金（如有）；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="133EABE9">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（5）服务费用清单；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7D65C201">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（6）资格审查资料；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2629B9E3">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="ar-SA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（7）服务方案；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4FB2CA28">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>……</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="78954AFB">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>3．我方承诺投标有效期响应招标文件要求，有效期内不撤销投标文件。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2210B58A">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>4．如我方中标，我方承诺：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="21B0128A">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（1）在收到中标通知书后，在中标通知书规定的期限内与你方签订合同；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2B1506E7">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（2）在签订合同时不向你方提出附加条件；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2C72AB24">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（3）按照招标文件要求提交履约保证金；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0A6C0BA1">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（4）在合同约定的期限内完成合同规定的全部义务。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="523FE838">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>5．我方在此声明，所递交的投标文件及有关资料内容完整、真实和准确，且不存在第二章“投标人须知”第 1.4.3 项规定的任何一种情形。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="79871509">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>6．（其他补充说明）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0301EE53">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="3855"/>
+                </w:tabs>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="425" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        </w:body>
+</w:document>

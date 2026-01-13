@@ -206,39 +206,44 @@ class LLMConnector:
             raise RuntimeError(f"智谱清言API 调用失败: {e}")
     
     def _call_custom(self, prompt: str, system_prompt: Optional[str] = None) -> str:
-        """调用自定义API"""
+        """调用腾讯云 DeepSeek V3 自定义API"""
         try:
-            payload = {
-                "prompt": prompt,
-            }
+            messages = []
+            # system_prompt 官方示例没有 system，但是你可以自己加成 user 消息或者 role=system
             if system_prompt:
-                payload["system"] = system_prompt
-            
+                messages.append({"Role": "system", "Content": system_prompt})
+            messages.append({"Role": "user", "Content": prompt})
+
+            payload = {
+                "MaxTokens": self.config.max_tokens,
+                "Temperature": self.config.temperature,
+                "Model": self.config.model,
+                "Messages": messages,
+                "Stream": False   # 流式输出设 False，方便直接返回
+            }
+
             response = self.session.post(
                 self.config.api_url,
                 json=payload,
                 headers={
                     "Authorization": f"Bearer {self.config.api_key}",
-                    "Content-Type": "application/json"
+                    "Content-Type": "application/json",
+                    "X-TC-Action": "ChatCompletions"   # 官方要求
                 },
                 timeout=self.config.timeout
             )
             response.raise_for_status()
             result = response.json()
-            
-            # 尝试多种常见的响应格式
-            if isinstance(result, dict):
-                if 'content' in result:
-                    return result['content']
-                elif 'text' in result:
-                    return result['text']
-                elif 'result' in result:
-                    return result['result']
-                elif 'response' in result:
-                    return result['response']
-            
+
+            # 官方返回通常在 result.Choices[0].Message.Content
+            if "Choices" in result and len(result["Choices"]) > 0:
+                choice = result["Choices"][0]
+                if "Message" in choice and "Content" in choice["Message"]:
+                    return choice["Message"]["Content"]
+
+            # fallback
             return str(result)
-        
+
         except requests.exceptions.RequestException as e:
             raise RuntimeError(f"自定义API 调用失败: {e}")
 
@@ -288,3 +293,30 @@ if __name__ == '__main__':
     print("\n支持的提供商:")
     for provider in LLMProvider:
         print(f"  - {provider.value}")
+    
+    # ===== 自定义大模型测试示例 =====
+    print("\n=== 自定义大模型连接测试 ===")
+    
+    try:
+        # 从配置文件加载
+        config = load_config_from_file('llm_config.json')
+        
+        # 仅测试自定义提供商
+        if config.provider != LLMProvider.CUSTOM:
+            print("⚠ 当前配置不是自定义API，将临时切换为 CUSTOM 测试")
+            config.provider = LLMProvider.CUSTOM
+        
+        connector = LLMConnector(config)
+        
+        # 测试 prompt
+        test_prompt = "请用一句话介绍人工智能的应用。"
+        system_prompt = "你是一个知识渊博、回答简洁的助手。"
+        
+        print("请求中，请稍候...")
+        result = connector.call(prompt=test_prompt, system_prompt=system_prompt)
+        
+        print("\n✅ 自定义API返回结果:")
+        print(result)
+    
+    except Exception as e:
+        print(f"\n❌ 测试自定义API失败: {e}")

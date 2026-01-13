@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+  <w:body><w:p w14:paraId="795848C2">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="560" w:firstLineChars="200"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="3"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（一）基本情况表</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="76532687">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="20" w:lineRule="exact"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US" w:eastAsia="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251659264" behindDoc="1" locked="0" layoutInCell="0" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>5787390</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-1976755</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="12700" cy="12700"/>
+                                <wp:effectExtent l="4445" t="4445" r="8255" b="8255"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="2" name="矩形 2"/>
+                                <wp:cNvGraphicFramePr/>
+                                <ns0:graphic xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <ns0:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <ns0:xfrm>
+                                                    <ns0:off x="0" y="0"/>
+                                                    <ns0:ext cx="12700" cy="12700"/>
+                                                </ns0:xfrm>
+                                                <ns0:prstGeom prst="rect">
+                                                    <ns0:avLst/>
+                                                </ns0:prstGeom>
+                                                <ns0:solidFill>
+                                                    <ns0:srgbClr val="000000"/>
+                                                </ns0:solidFill>
+                                                <ns0:ln w="9525" cap="flat" cmpd="sng">
+                                                    <ns0:solidFill>
+                                                        <ns0:srgbClr val="FFFFFF"/>
+                                                    </ns0:solidFill>
+                                                    <ns0:prstDash val="solid"/>
+                                                    <ns0:miter/>
+                                                    <ns0:headEnd type="none" w="med" len="med"/>
+                                                    <ns0:tailEnd type="none" w="med" len="med"/>
+                                                </ns0:ln>
+                                            </wps:spPr>
+                                            <wps:bodyPr upright="1"/>
+                                        </wps:wsp>
+                                    </ns0:graphicData>
+                                </ns0:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="1" style="position:absolute;left:0pt;margin-left:455.7pt;margin-top:-155.65pt;height:1pt;width:1pt;z-index:-251657216;mso-width-relative:page;mso-height-relative:page;" fillcolor="#000000" filled="t" stroked="t" coordsize="21600,21600" o:allowincell="f" o:gfxdata="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&#10;UEsFBgAAAAAGAAYAWQEAAI4FAAAAAA==&#10;">
+                                <v:path/>
+                                <v:fill on="t" focussize="0,0"/>
+                                <v:stroke color="#FFFFFF"/>
+                                <v:imagedata o:title=""/>
+                                <o:lock v:ext="edit"/>
+                            </v:rect>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US" w:eastAsia="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="1" locked="0" layoutInCell="0" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>5787390</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-8890</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="12700" cy="12065"/>
+                                <wp:effectExtent l="4445" t="4445" r="8255" b="8890"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="3" name="矩形 3"/>
+                                <wp:cNvGraphicFramePr/>
+                                <ns0:graphic xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <ns0:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <ns0:xfrm>
+                                                    <ns0:off x="0" y="0"/>
+                                                    <ns0:ext cx="12700" cy="12065"/>
+                                                </ns0:xfrm>
+                                                <ns0:prstGeom prst="rect">
+                                                    <ns0:avLst/>
+                                                </ns0:prstGeom>
+                                                <ns0:solidFill>
+                                                    <ns0:srgbClr val="000000"/>
+                                                </ns0:solidFill>
+                                                <ns0:ln w="9525" cap="flat" cmpd="sng">
+                                                    <ns0:solidFill>
+                                                        <ns0:srgbClr val="FFFFFF"/>
+                                                    </ns0:solidFill>
+                                                    <ns0:prstDash val="solid"/>
+                                                    <ns0:miter/>
+                                                    <ns0:headEnd type="none" w="med" len="med"/>
+                                                    <ns0:tailEnd type="none" w="med" len="med"/>
+                                                </ns0:ln>
+                                            </wps:spPr>
+                                            <wps:bodyPr upright="1"/>
+                                        </wps:wsp>
+                                    </ns0:graphicData>
+                                </ns0:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="1" style="position:absolute;left:0pt;margin-left:455.7pt;margin-top:-0.7pt;height:0.95pt;width:1pt;z-index:-251656192;mso-width-relative:page;mso-height-relative:page;" fillcolor="#000000" filled="t" stroked="t" coordsize="21600,21600" o:allowincell="f" o:gfxdata="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&#10;BQYAAAAABgAGAFkBAACMBQAAAAA=&#10;">
+                                <v:path/>
+                                <v:fill on="t" focussize="0,0"/>
+                                <v:stroke color="#FFFFFF"/>
+                                <v:imagedata o:title=""/>
+                                <o:lock v:ext="edit"/>
+                            </v:rect>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7CE4D5EE">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:spacing w:before="14" w:after="120" w:line="328" w:lineRule="auto"/>
+                <w:ind w:left="100" w:right="102"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>注：1.投标人应根据投标人须知第 3.5.1 项的要求在本表后附相关证明材料。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5377F1B8">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:spacing w:before="14" w:after="120" w:line="326" w:lineRule="auto"/>
+                <w:ind w:left="115" w:leftChars="48" w:right="102" w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>2.如果投标人须知第 1.4.1 项对投标货物制造商的资质提出了要求，投标人应根据投标人须知第 3.5.1 项的要求在本表后附相关资质证书复印件。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3A850AF2">
+            <w:pPr>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="329" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>3.投标人须登录国家企业信用信息公示系统（http://www.gsxt.gov.cn/index.html）提供本企业“营业执照信息”及“股东及出资信息”</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>截图并附在本表后，详见示例</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7D05F397">
+            <w:pPr>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="329" w:lineRule="auto"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:headerReference r:id="rId24" w:type="first"/>
+                    <w:footerReference r:id="rId27" w:type="first"/>
+                    <w:headerReference r:id="rId22" w:type="default"/>
+                    <w:footerReference r:id="rId25" w:type="default"/>
+                    <w:headerReference r:id="rId23" w:type="even"/>
+                    <w:footerReference r:id="rId26" w:type="even"/>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="720" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="114300" distR="114300">
+                        <wp:extent cx="4924425" cy="3000375"/>
+                        <wp:effectExtent l="0" t="0" r="3175" b="9525"/>
+                        <wp:docPr id="1" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <ns0:graphicFrameLocks xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <ns0:graphic xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <ns0:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <ns0:pic xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <ns0:nvPicPr>
+                                        <ns0:cNvPr id="1" name="图片 1"/>
+                                        <ns0:cNvPicPr>
+                                            <ns0:picLocks xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                                        </ns0:cNvPicPr>
+                                    </ns0:nvPicPr>
+                                    <ns0:blipFill>
+                                        <ns0:blip xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main" r:embed="rId119"/>
+                                        <ns0:stretch xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                            <ns0:fillRect/>
+                                        </ns0:stretch>
+                                    </ns0:blipFill>
+                                    <ns0:spPr>
+                                        <ns0:xfrm xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                            <ns0:off x="0" y="0"/>
+                                            <ns0:ext cx="4924425" cy="3000375"/>
+                                        </ns0:xfrm>
+                                        <ns0:prstGeom xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+                                            <ns0:avLst/>
+                                        </ns0:prstGeom>
+                                        <ns0:noFill xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                        <ns0:ln xmlns:ns0="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                            <ns0:noFill/>
+                                        </ns0:ln>
+                                    </ns0:spPr>
+                                </ns0:pic>
+                            </ns0:graphicData>
+                        </ns0:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        </w:body>
+</w:document>

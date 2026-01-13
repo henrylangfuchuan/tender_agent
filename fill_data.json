@@ -1,0 +1,19 @@
+{
+  "page_1": {
+    "project_name": "中铝集团2026年采购项目",
+    "package_number": "PKG-2026-001",
+    "budget": "500万元"
+  },
+  "page_2": {
+    "bidder_name": "某某公司",
+    "bidder_address": "北京市朝阳区",
+    "legal_representative": "张三",
+    "contact_phone": "010-12345678"
+  },
+  "page_3": {
+    "service_content": "提供项目管理咨询服务",
+    "service_term": "12个月",
+    "start_date": "2026-03-01",
+    "end_date": "2027-02-28"
+  }
+}
