@@ -1,0 +1,8 @@
+{
+  "provider": "custom",
+  "api_key": "sk-VcqUMssTr1tzmkyEZ64N5Xba8k5jVCVm0ZYVMo2AqJKxvFIC",
+  "api_url": "https://api.lkeap.cloud.tencent.com/v1",
+  "model": "deepseek-v3-0324",
+  "temperature": 0.6,
+  "max_tokens": 20480
+}

@@ -1,0 +1,42 @@
+{
+  "page_1": {
+    "project_name": "中铝集团2026年采购项目",
+    "project_code": "CPC-2026-001",
+    "budget": "500万元",
+    "start_date": "2026-03-01",
+    "end_date": "2026-12-31"
+  },
+  "page_2": {
+    "bidder_name": "某某公司有限责任公司",
+    "registration_number": "91110000123456789X",
+    "legal_representative": "张三",
+    "legal_representative_id": "110101199001011234",
+    "contact_phone": "010-12345678",
+    "contact_email": "contact@company.com",
+    "company_address": "北京市朝阳区某街道"
+  },
+  "page_3": {
+    "service_content": "项目管理咨询服务",
+    "service_scope": "项目全周期管理、质量控制、进度管理",
+    "service_term_months": "12",
+    "service_location": "全国",
+    "key_personnel": [
+      "张三（项目经理，8年经验）",
+      "李四（技术总监，10年经验）",
+      "王五（财务负责人，5年经验）"
+    ]
+  },
+  "page_4": {
+    "total_price": "500万元",
+    "annual_price": "416.67万元",
+    "payment_terms": "按进度分期支付",
+    "deposit_amount": "50万元",
+    "performance_period": "12个月"
+  },
+  "page_5": {
+    "quality_commitment": "确保服务质量达到行业先进水平",
+    "response_time": "24小时内响应",
+    "complaint_resolution": "7天内解决投诉",
+    "insurance": "购买职业责任保险"
+  }
+}
