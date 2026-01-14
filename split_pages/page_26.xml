@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
-  <w:body><w:p w14:paraId="49422141">
+  <w:body>
+    <w:p w14:paraId="49422141">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="440" w:lineRule="exact"/>
@@ -14,7 +15,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="543109C9">
+    <w:p w14:paraId="543109C9">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="440" w:lineRule="exact"/>
@@ -28,7 +29,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="5EA45E90">
+    <w:p w14:paraId="5EA45E90">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="440" w:lineRule="exact"/>
@@ -42,7 +43,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="0DC3E310">
+    <w:p w14:paraId="0DC3E310">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="440" w:lineRule="exact"/>
@@ -56,7 +57,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="0C038D31">
+    <w:p w14:paraId="0C038D31">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="440" w:lineRule="exact"/>
@@ -70,7 +71,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="1EF0A06A">
+    <w:p w14:paraId="1EF0A06A">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="center"/>
@@ -106,7 +107,7 @@
                 <w:t>${项目名称}</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="7982B3EE">
+    <w:p w14:paraId="7982B3EE">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="center"/>
@@ -121,7 +122,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="2C3FB054">
+    <w:p w14:paraId="2C3FB054">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="center"/>
@@ -154,7 +155,7 @@
                 <w:t>${包编号}</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="22698E81">
+    <w:p w14:paraId="22698E81">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="center"/>
@@ -167,7 +168,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="54701934">
+    <w:p w14:paraId="54701934">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="both"/>
@@ -180,7 +181,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="71D628EE">
+    <w:p w14:paraId="71D628EE">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="center"/>
@@ -203,7 +204,7 @@
                 <w:t>投 标 文 件</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="49666D75">
+    <w:p w14:paraId="49666D75">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="both"/>
@@ -216,7 +217,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="341C84EF">
+    <w:p w14:paraId="341C84EF">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="both"/>
@@ -229,7 +230,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="60DCB51C">
+    <w:p w14:paraId="60DCB51C">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="both"/>
@@ -242,7 +243,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="589E64CB">
+    <w:p w14:paraId="589E64CB">
             <w:pPr>
                 <w:keepNext/>
                 <w:keepLines/>
@@ -275,7 +276,7 @@
             </w:r>
             <w:bookmarkEnd w:id="14"/>
         </w:p>
-        <w:p w14:paraId="6076C267">
+    <w:p w14:paraId="6076C267">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="both"/>
@@ -288,7 +289,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="36C5755B">
+    <w:p w14:paraId="36C5755B">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:jc w:val="both"/>
@@ -301,7 +302,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="46363BC6">
+    <w:p w14:paraId="46363BC6">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -369,7 +370,7 @@
                 <w:t>）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="5287FEFB">
+    <w:p w14:paraId="5287FEFB">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -446,7 +447,7 @@
                 <w:t>日</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="7156BFF1">
+    <w:p w14:paraId="7156BFF1">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:wordWrap w:val="0"/>
@@ -473,5 +474,5 @@
                 </w:sectPr>
             </w:pPr>
         </w:p>
-        </w:body>
+  </w:body>
 </w:document>

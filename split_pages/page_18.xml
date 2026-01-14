@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
-  <w:body><w:p w14:paraId="17EF12ED">
+  <w:body>
+    <w:p w14:paraId="17EF12ED">
             <w:pPr>
                 <w:keepNext/>
                 <w:keepLines/>
@@ -34,7 +35,83 @@
             </w:r>
             <w:bookmarkEnd w:id="7"/>
         </w:p>
-        <w:p w14:paraId="24768F06">
+    <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="5"/>
+                <w:tblW w:w="5000" w:type="pct"/>
+                <w:tblInd w:w="113" w:type="dxa"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                </w:tblBorders>
+                <w:tblLayout w:type="autofit"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="108" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="108" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="8522"/>
+            </w:tblGrid>
+            <w:tr w14:paraId="1E5A8CF3">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="108" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="108" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="5110" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5000" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="500B13D9">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:spacing w:line="360" w:lineRule="auto"/>
+                            <w:ind w:left="115" w:leftChars="48" w:right="84" w:firstLine="480" w:firstLineChars="200"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>请将投标保证金凭证扫描件粘贴于此</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+    <w:p w14:paraId="24768F06">
             <w:pPr>
                 <w:keepNext/>
                 <w:widowControl w:val="0"/>
@@ -62,7 +139,7 @@
                 <w:t>需附：基本账户证明材料</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="727694A6">
+    <w:p w14:paraId="727694A6">
             <w:pPr>
                 <w:keepNext/>
                 <w:widowControl w:val="0"/>
@@ -88,7 +165,7 @@
                 <w:t>注：基本账户开户银行及账号必须和保证金汇款银行一致。保证金须从公司基本账户汇出，如保证金未从基本账户汇出，评标委员会有权否决投标。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="048B2688">
+    <w:p w14:paraId="048B2688">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:wordWrap w:val="0"/>
@@ -115,5 +192,5 @@
                 </w:sectPr>
             </w:pPr>
         </w:p>
-        </w:body>
+  </w:body>
 </w:document>

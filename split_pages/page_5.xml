@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
-  <w:body><w:p w14:paraId="7802793F">
+  <w:body>
+    <w:p w14:paraId="7802793F">
             <w:pPr>
                 <w:keepNext/>
                 <w:keepLines/>
@@ -34,7 +35,7 @@
             </w:r>
             <w:bookmarkEnd w:id="4"/>
         </w:p>
-        <w:p w14:paraId="5475353C">
+    <w:p w14:paraId="5475353C">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="312" w:beforeLines="100" w:line="360" w:lineRule="auto"/>
@@ -97,7 +98,7 @@
                 <w:t>投标。现就联合体投标事宜订立如下协议。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="52B0368B">
+    <w:p w14:paraId="52B0368B">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -155,7 +156,7 @@
                 <w:t>（联合体名称）牵头人。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="38B06E7F">
+    <w:p w14:paraId="38B06E7F">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -176,7 +177,7 @@
                     2．联合体各成员授权牵头人代表联合体参加投标活动，签署文件，提交和接收相关的资料、信息及指示，进行合同谈判活动，负责合同实施阶段的组织和协调工作，以及处理与本招标项目有关的一切事宜。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="5187959F">
+    <w:p w14:paraId="5187959F">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -197,7 +198,7 @@
                     带责任。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="39F8DCAC">
+    <w:p w14:paraId="39F8DCAC">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -247,7 +248,7 @@
                 <w:t>。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="78D3B09A">
+    <w:p w14:paraId="78D3B09A">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -267,7 +268,7 @@
                 <w:t>5．本协议书自所有成员单位法定代表人（单位负责人）或其委托代理人签字或盖单位章之 日起生效，合同履行完毕后自动失效。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="3A4B0A33">
+    <w:p w14:paraId="3A4B0A33">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -313,7 +314,7 @@
                 <w:t>份，联合体成员和招标人各执一份。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="51EAEA1D">
+    <w:p w14:paraId="51EAEA1D">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -333,7 +334,7 @@
                 <w:t>注：本协议书由法定代表人（单位负责人）签字的，应附法定代表人（单位负责人）身份证明；由委托代理人签字的，应附授权委托书。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="6183EC13">
+    <w:p w14:paraId="6183EC13">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -349,7 +350,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="21E3F3D9">
+    <w:p w14:paraId="21E3F3D9">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -390,7 +391,7 @@
                 <w:t>（盖单位章）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="611948B1">
+    <w:p w14:paraId="611948B1">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -431,7 +432,7 @@
                 <w:t>（签字）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="0A277400">
+    <w:p w14:paraId="0A277400">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -472,7 +473,7 @@
                 <w:t>（盖单位章）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="47E50627">
+    <w:p w14:paraId="47E50627">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -513,7 +514,7 @@
                 <w:t>（签字）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="498FFE50">
+    <w:p w14:paraId="498FFE50">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -554,7 +555,7 @@
                 <w:t>（盖单位章）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="6D4D25A5">
+    <w:p w14:paraId="6D4D25A5">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:tabs>
@@ -595,7 +596,7 @@
                 <w:t>（签字）</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="11C721A5">
+    <w:p w14:paraId="11C721A5">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -609,7 +610,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="3BC14E17">
+    <w:p w14:paraId="3BC14E17">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -645,5 +646,5 @@
                 <w:t>注：本页按此格式须打印后，签字盖章扫描上传，如未按要求编制，评标委员会有权否决其投标。</w:t>
             </w:r>
         </w:p>
-        </w:body>
+  </w:body>
 </w:document>

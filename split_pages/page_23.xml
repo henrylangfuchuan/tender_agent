@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
-  <w:body><w:p w14:paraId="7815C529">
+  <w:body>
+    <w:p w14:paraId="7815C529">
             <w:pPr>
                 <w:keepNext/>
                 <w:spacing w:before="240" w:after="60"/>
@@ -29,7 +30,7 @@
             </w:r>
             <w:bookmarkEnd w:id="11"/>
         </w:p>
-        <w:p w14:paraId="25A06346">
+    <w:p w14:paraId="25A06346">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:rPr>
@@ -40,7 +41,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="473CB78B">
+    <w:p w14:paraId="473CB78B">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="12"/>
@@ -52,7 +53,868 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="4D84EBCD">
+    <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="5"/>
+                <w:tblW w:w="5000" w:type="pct"/>
+                <w:tblInd w:w="-5" w:type="dxa"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                </w:tblBorders>
+                <w:tblLayout w:type="autofit"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="0" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="0" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="1058"/>
+                <w:gridCol w:w="2840"/>
+                <w:gridCol w:w="2991"/>
+                <w:gridCol w:w="1427"/>
+            </w:tblGrid>
+            <w:tr w14:paraId="3B493FD5">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="777" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5C5192E2">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:spacing w:before="72"/>
+                            <w:ind w:right="223"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                            <w:t>序号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2BC64E21">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:spacing w:before="72"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>招标文件章节及条款号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="30308712">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:spacing w:before="72"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>投标文件章节及条款号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="23B68C19">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:spacing w:before="72"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:b/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                            <w:t>偏差说明</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="148CA4A7">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="456" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2B9E3667">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:ind w:right="2"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="26006520">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="22BEDAEB">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7F39EAB1">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="7E1427F5">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="225C897A">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:ind w:right="2"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="37B04457">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="466A6F63">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="38526BE1">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="3B3BAC9E">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="14AEDE20">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:ind w:right="2"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6FE31F18">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="16F40537">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="219F0B59">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="2A6924C1">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="632C5BA2">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:ind w:right="2"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="126B1332">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2518D2CF">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0A4808EB">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="4F7DCA10">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5162D4A9">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:ind w:right="2"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="60BA01E5">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="65DBE9BB">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="73E931AE">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="716A0CCF">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="456" w:hRule="exact"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="636" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6F64AA6B">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:ind w:left="223" w:right="223"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                                <w:i/>
+                                <w:kern w:val="2"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1707" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="33E868EF">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1798" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7B0D5506">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="858" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="000000" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3781FF20">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+    <w:p w14:paraId="4D84EBCD">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="1"/>
@@ -62,7 +924,7 @@
                 </w:rPr>
             </w:pPr>
         </w:p>
-        <w:p w14:paraId="596D4AE9">
+    <w:p w14:paraId="596D4AE9">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="37"/>
@@ -84,7 +946,7 @@
                 <w:t>投标人保证：除偏差表列出的偏差外，投标人响应招标文件的全部要求，如无差异请填“无”。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="0CE88CC6">
+    <w:p w14:paraId="0CE88CC6">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="37" w:line="360" w:lineRule="auto"/>
@@ -102,7 +964,7 @@
                 <w:t>若技术偏差表未列明而实际投标文件中存在技术偏差，由评标委员会决定：</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="4569DD91">
+    <w:p w14:paraId="4569DD91">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="37" w:line="360" w:lineRule="auto"/>
@@ -120,7 +982,7 @@
                 <w:t>1. 要求投标人进行澄清；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="39E36A7E">
+    <w:p w14:paraId="39E36A7E">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="37" w:line="360" w:lineRule="auto"/>
@@ -138,7 +1000,7 @@
                 <w:t>2. 偏差不构成实质上不响应招标文件；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="549C75EF">
+    <w:p w14:paraId="549C75EF">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:before="37" w:line="360" w:lineRule="auto"/>
@@ -165,5 +1027,5 @@
                 <w:t>3. 否决其投标。</w:t>
             </w:r>
         </w:p>
-        </w:body>
+  </w:body>
 </w:document>

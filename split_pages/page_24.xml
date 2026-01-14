@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
-  <w:body><w:p w14:paraId="43DF8178">
+  <w:body>
+    <w:p w14:paraId="43DF8178">
             <w:pPr>
                 <w:keepNext/>
                 <w:keepLines/>
@@ -34,7 +35,7 @@
             </w:r>
             <w:bookmarkEnd w:id="12"/>
         </w:p>
-        <w:p w14:paraId="312E3F81">
+    <w:p w14:paraId="312E3F81">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -55,7 +56,7 @@
                 <w:t>服务方案应包括（但不限于）下列内容：</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="59B46C49">
+    <w:p w14:paraId="59B46C49">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -76,7 +77,7 @@
                 <w:t>一、服务工程概况；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="1F40354C">
+    <w:p w14:paraId="1F40354C">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -97,7 +98,7 @@
                 <w:t>二、服务范围、服务内容；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="1D99FEFC">
+    <w:p w14:paraId="1D99FEFC">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -118,7 +119,7 @@
                 <w:t>三、服务依据、服务工作目标；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="7117F309">
+    <w:p w14:paraId="7117F309">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -139,7 +140,7 @@
                 <w:t>四、服务机构设置（框图）、岗位职责；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="35BFE630">
+    <w:p w14:paraId="35BFE630">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -160,7 +161,7 @@
                 <w:t>五、服务说明和服务方案；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="651EC77E">
+    <w:p w14:paraId="651EC77E">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -181,7 +182,7 @@
                 <w:t>六、拟投入的服务人员，服务设备；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="48A292CB">
+    <w:p w14:paraId="48A292CB">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -202,7 +203,7 @@
                 <w:t>七、服务质量、进度、保密等保证措施；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="5718548D">
+    <w:p w14:paraId="5718548D">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -223,7 +224,7 @@
                 <w:t>八、服务安全保证措施；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="2289A28C">
+    <w:p w14:paraId="2289A28C">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -244,7 +245,7 @@
                 <w:t>九、服务工作重点、难点分析；</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="7EC68D7F">
+    <w:p w14:paraId="7EC68D7F">
             <w:pPr>
                 <w:widowControl w:val="0"/>
                 <w:spacing w:line="360" w:lineRule="auto"/>
@@ -279,5 +280,5 @@
                 <w:t>十、对本工程服务的合理化建议。</w:t>
             </w:r>
         </w:p>
-        </w:body>
+  </w:body>
 </w:document>

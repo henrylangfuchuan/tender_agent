@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
-  <w:body><w:p w14:paraId="21D564AB">
+  <w:body>
+    <w:p w14:paraId="21D564AB">
             <w:pPr>
                 <w:keepNext/>
                 <w:keepLines/>
@@ -34,7 +35,7 @@
             </w:r>
             <w:bookmarkEnd w:id="8"/>
         </w:p>
-        <w:p w14:paraId="5B6C9962">
+    <w:p w14:paraId="5B6C9962">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -62,7 +63,7 @@
                 <w:t>${项目名称}</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="2867E379">
+    <w:p w14:paraId="2867E379">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -90,7 +91,7 @@
                 <w:t>${包编号}</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="11FDF6B5">
+    <w:p w14:paraId="11FDF6B5">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -117,7 +118,7 @@
                 <w:t>依法从事投标和其他交易活动，诚实守信，自觉接受监督。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="6F67F6D1">
+    <w:p w14:paraId="6F67F6D1">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -144,7 +145,7 @@
                 <w:t>参与项目投标遵循法定或招标文件规定的资质、业绩或许可条件。不伪造从业人员资质证书、业绩情况、财务状况、信用状况、投标人授权委托书等相关资信文件和印章参与投标。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="4BC1F236">
+    <w:p w14:paraId="4BC1F236">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -171,7 +172,7 @@
                 <w:t>不挂靠其它企业、不超越本企业资质等级许可的业务范围或以任何形式借用其他企业的名义参与投标。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="7EC444F4">
+    <w:p w14:paraId="7EC444F4">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -198,7 +199,7 @@
                 <w:t>不通过联合招标人或招标代理人设置有利条款等方式干预招标文件编制。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="3E1D8594">
+    <w:p w14:paraId="3E1D8594">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -226,7 +227,7 @@
                     按照招标文件要求编制投标文件、缴纳投标保证金等，不违背国家有关价格规定或低于成本价报价。遵守法律、法规和招标文件规定的投标程序，不隐瞒真实情况、弄虚作假、骗取投标和中标资格。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="068B20DA">
+    <w:p w14:paraId="068B20DA">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -253,7 +254,7 @@
                 <w:t>坚决抵制事先约定中标者、互相约定抬高或压低投标报价等串标、围标违法投标行为。不以宴请、提供礼品、行贿等方式贿赂招标人、招标代理人或评标专家。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="38FF82DD">
+    <w:p w14:paraId="38FF82DD">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -280,7 +281,7 @@
                 <w:t>严格按照招标文件和投标文件约定的条款，及中标条件签订合同协议，不签订“阴阳合同”，不将中标项目违法转包和违规分包。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="3EDC4054">
+    <w:p w14:paraId="3EDC4054">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -307,7 +308,7 @@
                 <w:t>依法履行合同约定，确保质量、进度，不擅自变更、增减合同标的物及款项，做好项目的后续服务工作。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="2B948164">
+    <w:p w14:paraId="2B948164">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -334,7 +335,7 @@
                 <w:t>对违法和不公正行为投诉时，保证投诉内容及相应证明材料的真实合法。</w:t>
             </w:r>
         </w:p>
-        <w:p w14:paraId="165D4943">
+    <w:p w14:paraId="165D4943">
             <w:pPr>
                 <w:spacing w:line="360" w:lineRule="auto"/>
                 <w:ind w:firstLine="480" w:firstLineChars="200"/>
@@ -365,5 +366,5 @@
                 <w:t>本人参加本项目招标投标相关工作，自愿签署本公约，共同承诺自觉履行和遵守公约的各项规定，坚持守法、守信，维护招标投标活动秩序。</w:t>
             </w:r>
         </w:p>
-        </w:body>
+  </w:body>
 </w:document>
