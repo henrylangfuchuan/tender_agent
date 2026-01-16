@@ -1,0 +1,3958 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData" mc:Ignorable="w14 w15 wp14">
+    <w:body>
+        <w:p w14:paraId="03812A6E">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_Toc256000102"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                </w:rPr>
+                <w:t>第六章 投标文件格式</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+        </w:p>
+        <w:p w14:paraId="6D0C5D95">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体" w:cs="黑体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体" w:cs="黑体"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="61FB52C6">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体" w:cs="黑体"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:footerReference r:id="rId3" w:type="default"/>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="720" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="5" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="5"/>
+        </w:p>
+        <w:p w14:paraId="7FF47ADD">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="440" w:lineRule="exact"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="4A8ECE9B">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="440" w:lineRule="exact"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="7F9898D2">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="440" w:lineRule="exact"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="6CD10749">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="440" w:lineRule="exact"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="448997C7">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>${项目名称}xx</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1B4A1ED5">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                    <w:highlight w:val="yellow"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="44989FD4">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="10"/>
+                    <w:szCs w:val="36"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>${包编号}xx</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4F4E9F22">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="033195E5">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="3DAC442C">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>投 标 文 件</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="31FCD4A2">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="6448A1AF">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="670439E1">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="1FD3F5BD">
+            <w:pPr>
+                <w:keepNext/>
+                <w:keepLines/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:before="260" w:after="260" w:line="416" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="1"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="84"/>
+                    <w:szCs w:val="84"/>
+                    <w:lang w:val="zh-CN" w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="1" w:name="_Toc256000103"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="84"/>
+                    <w:szCs w:val="84"/>
+                    <w:lang w:val="zh-CN" w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>商务部分</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="1"/>
+        </w:p>
+        <w:p w14:paraId="0BB2AB83">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="0F5046D5">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="62E357E9">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>投标人：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">12312</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:color w:val="4E5463"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>CA电子章</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0C7250A9">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">xx</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">xx</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">xx</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>日</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="36A9FAEB">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="420" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:headerReference r:id="rId6" w:type="first"/>
+                    <w:footerReference r:id="rId9" w:type="first"/>
+                    <w:headerReference r:id="rId4" w:type="default"/>
+                    <w:footerReference r:id="rId7" w:type="default"/>
+                    <w:headerReference r:id="rId5" w:type="even"/>
+                    <w:footerReference r:id="rId8" w:type="even"/>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="720" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="4F514467">
+            <w:pPr>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="2"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="32"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="2" w:name="_Toc256000104"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="32"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+                <w:t>一、法定代表人（单位负责人）身份证明</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="2"/>
+        </w:p>
+        <w:p w14:paraId="6228AD69">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:right="746" w:firstLine="240" w:firstLineChars="100"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（适用于无委托代理人的情况）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="196E745E">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:left="1528" w:right="-20"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="微软雅黑"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="5E07BF1C">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="7A721676">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="720" w:firstLineChars="0"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="3F23ABE9">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="58143F25">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>投标人名称：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                          </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4FA70FDD">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>姓名：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">              </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>性别：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">        </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年龄：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">         </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> 职务：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">         </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="380FE17A">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>系</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（投标人名称）的法定代表人（单位负责</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>人）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="73E17705">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="468" w:firstLineChars="200"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>特此证明。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="43523329">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="3FEFDD56">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>附：法定代表人（单位负责人）身份证复印件。</w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="5"/>
+                <w:tblW w:w="0" w:type="auto"/>
+                <w:tblInd w:w="0" w:type="dxa"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                </w:tblBorders>
+                <w:tblLayout w:type="fixed"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="108" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="108" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="8522"/>
+            </w:tblGrid>
+            <w:tr w14:paraId="759B331E">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="108" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="108" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="3925" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="8522" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="4753D7DD">
+                        <w:pPr>
+                            <w:keepNext/>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:spacing w:before="4" w:after="120" w:line="360" w:lineRule="auto"/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="5D03B500">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="425" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="5EB4A19C">
+            <w:pPr>
+                <w:keepNext/>
+                <w:keepLines/>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="360" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="2"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="44"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="44"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="3" w:name="_Toc256000105"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:kern w:val="44"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="44"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>二、授权委托书</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="3"/>
+        </w:p>
+        <w:p w14:paraId="170FC906">
+            <w:pPr>
+                <w:keepNext/>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:right="746"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（适用于有委托代理人</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh"/>
+                </w:rPr>
+                <w:t>的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>情况）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="44192243">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="2421"/>
+                    <w:tab w:val="left" w:pos="5585"/>
+                </w:tabs>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:after="120" w:line="360" w:lineRule="auto"/>
+                <w:ind w:left="-2" w:leftChars="-1" w:right="21" w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>本人</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">               </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（姓名）系</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">              </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（投标人名称）的法定代表人（单位负责</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>人）</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh"/>
+                </w:rPr>
+                <w:t>，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>现</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>委</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-1"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>托</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t xml:space="preserve">         </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（姓名）为我</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>方代</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>理人。代理</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>人</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>根据授</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>权，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>以我方名义</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:spacing w:val="-3"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>签</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>署、澄清确认、递交、撤回、修改</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:u w:val="single"/>
+                    <w:lang w:eastAsia="zh"/>
+                </w:rPr>
+                <w:t xml:space="preserve">      （项目名称）</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>的投标文件、签订合同和处理有关事宜，其法律后果由我方承担。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0FC0ACF0">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="36" w:after="120" w:line="360" w:lineRule="auto"/>
+                <w:ind w:right="21" w:firstLine="360" w:firstLineChars="150"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>委托期限：与投标有效期一致。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="57EEA5A8">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="36" w:after="120" w:line="360" w:lineRule="auto"/>
+                <w:ind w:right="21" w:firstLine="360" w:firstLineChars="150"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>代理人无转委托权。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7AB10CE6">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:before="36" w:after="120" w:line="360" w:lineRule="auto"/>
+                <w:ind w:right="21" w:firstLine="360" w:firstLineChars="150"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>附：法定代表人（单位负责人）身份证复印件及委托代理人身份证复印件</w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="5"/>
+                <w:tblW w:w="5000" w:type="pct"/>
+                <w:tblInd w:w="0" w:type="dxa"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                </w:tblBorders>
+                <w:tblLayout w:type="autofit"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="108" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="108" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="8522"/>
+            </w:tblGrid>
+            <w:tr w14:paraId="620E9CC3">
+                <w:tblPrEx>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                    </w:tblBorders>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="108" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="108" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="3925" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5000" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="59788819">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:wordWrap w:val="0"/>
+                            <w:spacing w:before="4" w:after="120" w:line="360" w:lineRule="auto"/>
+                            <w:ind w:firstLine="420" w:firstLineChars="200"/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="2D71E6B7">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="420" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:headerReference r:id="rId12" w:type="first"/>
+                    <w:footerReference r:id="rId15" w:type="first"/>
+                    <w:headerReference r:id="rId10" w:type="default"/>
+                    <w:footerReference r:id="rId13" w:type="default"/>
+                    <w:headerReference r:id="rId11" w:type="even"/>
+                    <w:footerReference r:id="rId14" w:type="even"/>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="720" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="43C822D3">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="4" w:name="_Toc256000108"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                </w:rPr>
+                <w:t>五、资格审查资料</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="4"/>
+        </w:p>
+        <w:p w14:paraId="2DFE231C">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:headerReference r:id="rId16" w:type="default"/>
+                    <w:footerReference r:id="rId17" w:type="default"/>
+                    <w:pgSz w:w="12240" w:h="15840"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="708" w:footer="708" w:gutter="0"/>
+                    <w:cols w:space="708" w:num="1"/>
+                    <w:docGrid w:linePitch="360" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="795848C2">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="360" w:lineRule="auto"/>
+                <w:ind w:firstLine="560" w:firstLineChars="200"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="3"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（一）基本情况表</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="76532687">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:spacing w:line="20" w:lineRule="exact"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri"/>
+                    <w:kern w:val="2"/>
+                    <w:sz w:val="21"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US" w:eastAsia="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251659264" behindDoc="1" locked="0" layoutInCell="0" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>5787390</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-1976755</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="12700" cy="12700"/>
+                                <wp:effectExtent l="4445" t="4445" r="8255" b="8255"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="2" name="矩形 2"/>
+                                <wp:cNvGraphicFramePr/>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="12700" cy="12700"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:solidFill>
+                                                    <a:srgbClr val="000000"/>
+                                                </a:solidFill>
+                                                <a:ln w="9525" cap="flat" cmpd="sng">
+                                                    <a:solidFill>
+                                                        <a:srgbClr val="FFFFFF"/>
+                                                    </a:solidFill>
+                                                    <a:prstDash val="solid"/>
+                                                    <a:miter/>
+                                                    <a:headEnd type="none" w="med" len="med"/>
+                                                    <a:tailEnd type="none" w="med" len="med"/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:bodyPr upright="1"/>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="1" style="position:absolute;left:0pt;margin-left:455.7pt;margin-top:-155.65pt;height:1pt;width:1pt;z-index:-251657216;mso-width-relative:page;mso-height-relative:page;" fillcolor="#000000" filled="t" stroked="t" coordsize="21600,21600" o:allowincell="f" o:gfxdata="UEsDBAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAZHJzL1BLAwQUAAAACACHTuJAx4H0mdgAAAAN&#10;AQAADwAAAGRycy9kb3ducmV2LnhtbE2Py07DMBBF90j8gzVI7FrbdQVNiFMJJFZs6GPDzo1NHLDH&#10;Uew++HumK1jOnaM7Z5r1JQZ2clMeEmqQcwHMYZfsgL2G/e51tgKWi0FrQkKn4cdlWLe3N42pbTrj&#10;xp22pWdUgrk2GnwpY8157ryLJs/T6JB2n2mKptA49dxO5kzlMfCFEA88mgHpgjeje/Gu+94eowZ8&#10;fl+8qa487ke/qoJdjl+b8KH1/Z0UT8CKu5Q/GK76pA4tOR3SEW1mQUMl5ZJQDTMlpQJGSCUVRYdr&#10;JCoFvG34/y/aX1BLAwQUAAAACACHTuJACmwsCvUBAAAbBAAADgAAAGRycy9lMm9Eb2MueG1srVNL&#10;jhMxEN0jcQfLe9JJS8Onlc4sJoQNgpEGDlCx3d2W/JPLSSenQWLHITgO4hqU3SHzgUUW0wt32S4/&#10;v/eqvLw+WMP2KqL2ruWL2Zwz5YSX2vUt//pl8+otZ5jASTDeqZYfFfLr1csXyzE0qvaDN1JFRiAO&#10;mzG0fEgpNFWFYlAWcOaDcrTZ+Wgh0TT2lYwwEro1VT2fv65GH2WIXihEWl1Pm/yEGC8B9F2nhVp7&#10;sbPKpQk1KgOJJOGgA/JVYdt1SqTPXYcqMdNyUprKSJdQvM1jtVpC00cIgxYnCnAJhSeaLGhHl56h&#10;1pCA7aL+B8pqET36Ls2Et9UkpDhCKhbzJ97cDRBU0UJWYzibjs8HKz7tbyPTsuU1Zw4sFfz3tx+/&#10;fn5ndfZmDNhQyl24jacZUpiFHrpo858ksEPx83j2Ux0SE7S4qN/MyWhBO1NIGNX90RAxfVDeshy0&#10;PFKxioew/4hpSv2bkm9Cb7TcaGPKJPbbGxPZHnJhy5f5EvqjNOPY2PJ3V/UV0QDq1o66hEIbSDG6&#10;vtz36AQ+BN6U73/AmdgacJgIFIScBo3VSWWvoBkUyPdOsnQM5Kqjx8QzGaskZ0bR28tRyUygzSWZ&#10;pM44EpmrMtUhR1svj1TDXYi6H8jHReGbd6hniiWn/s5N+XBekO7f9OoPUEsDBAoAAAAAAIdO4kAA&#10;AAAAAAAAAAAAAAAGAAAAX3JlbHMvUEsDBBQAAAAIAIdO4kCKFGY80QAAAJQBAAALAAAAX3JlbHMv&#10;LnJlbHOlkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr28w6DZfS2o36h7xP//vCZ&#10;FrUiS6RsYNf1oDA78jEHA++X49MLKKk2e7tQRgM3FDiMjw/7My62tiOZYxHVKFkMzLWWV63FzZis&#10;dFQwt81EnGxtIwddrLvagHro+2fNvxkwbpjq5A3wyQ+gLrfSzH/YKTomoal2jpKmaYruHlUHtmWO&#10;7sg24Ru5RrMcsBrwLBoHalnXfgR9X7/7p97TRz7jutV+h4zrj1dvuhy/AFBLAwQUAAAACACHTuJA&#10;fublIPcAAADhAQAAEwAAAFtDb250ZW50X1R5cGVzXS54bWyVkUFOwzAQRfdI3MHyFiVOu0AIJemC&#10;tEtAqBxgZE8Si2RseUxob4+TthtEkVjaM/+/J7vcHMZBTBjYOqrkKi+kQNLOWOoq+b7fZQ9ScAQy&#10;MDjCSh6R5aa+vSn3R48sUpq4kn2M/lEp1j2OwLnzSGnSujBCTMfQKQ/6AzpU66K4V9pRRIpZnDtk&#10;XTbYwucQxfaQrk8mAQeW4um0OLMqCd4PVkNMpmoi84OSnQl5Si473FvPd0lDql8J8+Q64Jx7SU8T&#10;rEHxCiE+w5g0lAmsjPuigFP+d8lsOXLm2tZqzJvATYq94XSxutaOa9c4/d/y7ZK6dKvlg+pvUEsB&#10;AhQAFAAAAAgAh07iQH7m5SD3AAAA4QEAABMAAAAAAAAAAQAgAAAAZgQAAFtDb250ZW50X1R5cGVz&#10;XS54bWxQSwECFAAKAAAAAACHTuJAAAAAAAAAAAAAAAAABgAAAAAAAAAAABAAAABIAwAAX3JlbHMv&#10;UEsBAhQAFAAAAAgAh07iQIoUZjzRAAAAlAEAAAsAAAAAAAAAAQAgAAAAbAMAAF9yZWxzLy5yZWxz&#10;UEsBAhQACgAAAAAAh07iQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAGRycy9QSwECFAAU&#10;AAAACACHTuJAx4H0mdgAAAANAQAADwAAAAAAAAABACAAAAAiAAAAZHJzL2Rvd25yZXYueG1sUEsB&#10;AhQAFAAAAAgAh07iQApsLAr1AQAAGwQAAA4AAAAAAAAAAQAgAAAAJwEAAGRycy9lMm9Eb2MueG1s&#10;UEsFBgAAAAAGAAYAWQEAAI4FAAAAAA==&#10;">
+                                <v:fill on="t" focussize="0,0"/>
+                                <v:stroke color="#FFFFFF" joinstyle="miter"/>
+                                <v:imagedata o:title=""/>
+                                <o:lock v:ext="edit" aspectratio="f"/>
+                            </v:rect>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US" w:eastAsia="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="1" locked="0" layoutInCell="0" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>5787390</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-8890</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="12700" cy="12065"/>
+                                <wp:effectExtent l="4445" t="4445" r="8255" b="8890"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="3" name="矩形 3"/>
+                                <wp:cNvGraphicFramePr/>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="12700" cy="12065"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:solidFill>
+                                                    <a:srgbClr val="000000"/>
+                                                </a:solidFill>
+                                                <a:ln w="9525" cap="flat" cmpd="sng">
+                                                    <a:solidFill>
+                                                        <a:srgbClr val="FFFFFF"/>
+                                                    </a:solidFill>
+                                                    <a:prstDash val="solid"/>
+                                                    <a:miter/>
+                                                    <a:headEnd type="none" w="med" len="med"/>
+                                                    <a:tailEnd type="none" w="med" len="med"/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:bodyPr upright="1"/>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="1" style="position:absolute;left:0pt;margin-left:455.7pt;margin-top:-0.7pt;height:0.95pt;width:1pt;z-index:-251656192;mso-width-relative:page;mso-height-relative:page;" fillcolor="#000000" filled="t" stroked="t" coordsize="21600,21600" o:allowincell="f" o:gfxdata="UEsDBAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAZHJzL1BLAwQUAAAACACHTuJA+bCIrdUAAAAH&#10;AQAADwAAAGRycy9kb3ducmV2LnhtbE2OTU/DMAyG70j8h8hI3LY022BraToJJE5c2NiFW9Z4TSFx&#10;qib74N/jneBkW++j10+9vgQvTjimPpIGNS1AILXR9tRp2H28TlYgUjZkjY+EGn4wwbq5valNZeOZ&#10;Nnja5k5wCaXKaHA5D5WUqXUYTJrGAYmzQxyDyXyOnbSjOXN58HJWFI8ymJ74gzMDvjhsv7fHoIGe&#10;32dv8zYvd4Nbld4uhq+N/9T6/k4VTyAyXvIfDFd9VoeGnfbxSDYJr6FUasGohsl1MlCqOS97DQ8g&#10;m1r+929+AVBLAwQUAAAACACHTuJAI0k87vYBAAAbBAAADgAAAGRycy9lMm9Eb2MueG1srVNLjhMx&#10;EN0jcQfLe9KfUQZopTMLQtggGGmGAzi2u9uSf3I56eQ0SOw4BMdBXIOyu8l8YJEFvXBX2eVX9V6V&#10;VzdHo8lBBlDOtrRalJRIy51Qtm/pl/vtqzeUQGRWMO2sbOlJAr1Zv3yxGn0jazc4LWQgCGKhGX1L&#10;hxh9UxTAB2kYLJyXFg87FwyL6Ia+EIGNiG50UZfldTG6IHxwXALg7mY6pDNiuATQdZ3icuP43kgb&#10;J9QgNYtICQblga5ztV0nefzcdSAj0S1FpjGvmATtXVqL9Yo1fWB+UHwugV1SwjNOhimLSc9QGxYZ&#10;2Qf1F5RRPDhwXVxwZ4qJSFYEWVTlM23uBuZl5oJSgz+LDv8Pln863AaiREuvKLHMYMN/ff3+88c3&#10;cpW0GT00GHLnb8PsAZqJ6LELJv2RAjlmPU9nPeUxEo6bVf26RKE5nlR1eb1MiMXDVR8gfpDOkGS0&#10;NGCzsobs8BHiFPonJGUCp5XYKq2zE/rdOx3IgaXG5m9GfxKmLRlb+nZZL7EMhtPa4ZSgaTwyBtvn&#10;fE9uwGPgbf7+BZwK2zAYpgIyQgpjjVFRhmwNkon3VpB48qiqxcdEUzFGCkq0xLeXrBwZmdKXRKJ2&#10;2qKEqStTH5K1c+KEPdz7oPoBdaxyvekEZyYLPs93GsrHfkZ6eNPr31BLAwQKAAAAAACHTuJAAAAA&#10;AAAAAAAAAAAABgAAAF9yZWxzL1BLAwQUAAAACACHTuJAihRmPNEAAACUAQAACwAAAF9yZWxzLy5y&#10;ZWxzpZDBasMwDIbvg72D0X1xmsMYo04vo9Br6R7A2IpjGltGMtn69vMOg2X0tqN+oe8T//7wmRa1&#10;IkukbGDX9aAwO/IxBwPvl+PTCyipNnu7UEYDNxQ4jI8P+zMutrYjmWMR1ShZDMy1lletxc2YrHRU&#10;MLfNRJxsbSMHXay72oB66Ptnzb8ZMG6Y6uQN8MkPoC630sx/2Ck6JqGpdo6SpmmK7h5VB7Zlju7I&#10;NuEbuUazHLAa8CwaB2pZ134EfV+/+6fe00c+47rVfoeM649Xb7ocvwBQSwMEFAAAAAgAh07iQH7m&#10;5SD3AAAA4QEAABMAAABbQ29udGVudF9UeXBlc10ueG1slZFBTsMwEEX3SNzB8hYlTrtACCXpgrRL&#10;QKgcYGRPEotkbHlMaG+Pk7YbRJFY2jP/vye73BzGQUwY2Dqq5CovpEDSzljqKvm+32UPUnAEMjA4&#10;wkoekeWmvr0p90ePLFKauJJ9jP5RKdY9jsC580hp0rowQkzH0CkP+gM6VOuiuFfaUUSKWZw7ZF02&#10;2MLnEMX2kK5PJgEHluLptDizKgneD1ZDTKZqIvODkp0JeUouO9xbz3dJQ6pfCfPkOuCce0lPE6xB&#10;8QohPsOYNJQJrIz7ooBT/nfJbDly5trWasybwE2KveF0sbrWjmvXOP3f8u2SunSr5YPqb1BLAQIU&#10;ABQAAAAIAIdO4kB+5uUg9wAAAOEBAAATAAAAAAAAAAEAIAAAAGQEAABbQ29udGVudF9UeXBlc10u&#10;eG1sUEsBAhQACgAAAAAAh07iQAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAQAAAARgMAAF9yZWxzL1BL&#10;AQIUABQAAAAIAIdO4kCKFGY80QAAAJQBAAALAAAAAAAAAAEAIAAAAGoDAABfcmVscy8ucmVsc1BL&#10;AQIUAAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAAAAAAAAABkcnMvUEsBAhQAFAAA&#10;AAgAh07iQPmwiK3VAAAABwEAAA8AAAAAAAAAAQAgAAAAIgAAAGRycy9kb3ducmV2LnhtbFBLAQIU&#10;ABQAAAAIAIdO4kAjSTzu9gEAABsEAAAOAAAAAAAAAAEAIAAAACQBAABkcnMvZTJvRG9jLnhtbFBL&#10;BQYAAAAABgAGAFkBAACMBQAAAAA=&#10;">
+                                <v:fill on="t" focussize="0,0"/>
+                                <v:stroke color="#FFFFFF" joinstyle="miter"/>
+                                <v:imagedata o:title=""/>
+                                <o:lock v:ext="edit" aspectratio="f"/>
+                            </v:rect>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="5"/>
+                <w:tblW w:w="5000" w:type="pct"/>
+                <w:tblInd w:w="-10" w:type="dxa"/>
+                <w:tblLayout w:type="autofit"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="0" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="0" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="2028"/>
+                <w:gridCol w:w="889"/>
+                <w:gridCol w:w="1112"/>
+                <w:gridCol w:w="1146"/>
+                <w:gridCol w:w="1057"/>
+                <w:gridCol w:w="518"/>
+                <w:gridCol w:w="545"/>
+                <w:gridCol w:w="1031"/>
+            </w:tblGrid>
+            <w:tr w14:paraId="4609D941">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7C19BC34">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>投标人名称</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3782" w:type="pct"/>
+                        <w:gridSpan w:val="7"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2EF1F7A1">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <!-- <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri"
+                                    w:eastAsia="宋体" />
+                                <w:kern w:val="2" />
+                                <w:sz w:val="21" />
+                                <w:szCs w:val="22" />
+                                <w:lang w:eastAsia="zh-CN" />
+                            </w:rPr>
+                            <w:t>xxx</w:t>
+                        </w:r> -->
+                    <w:r><w:t>张三公司</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="4EE10874">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1A4EF032">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>注册地址</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1890" w:type="pct"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7931AE46">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="635" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6D3492AF">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>邮政编码</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1258" w:type="pct"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2404FD3D">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>100000</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="6041546E">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:vMerge w:val="restart"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="291EC9BA">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>联系方式</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="534" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4FA5D5DF">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>联系人</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1356" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="053440C4">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>李四</w:t></w:r></w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="635" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="29666F69">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>电话</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1258" w:type="pct"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3D366326">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>123456789</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="6BAE0A9D">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5A6EFE2C">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="534" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4F9F3A61">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>传真</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1356" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4E45F41D">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>010-12345678</w:t></w:r></w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="635" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="471299F1">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>网址</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1258" w:type="pct"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="30806FAA">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>www.example.com</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="100EBD1A">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="52A46C70">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>法定代表人</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="534" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="008CC9D7">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>姓名</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="668" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1AB79A65">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="688" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1DA87169">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>技术职称</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="635" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="26F218EB">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="638" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4AF6BA0C">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>电话</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="620" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3D66E3ED">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>123456789</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="03E49ADC">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5B8E7748">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>技术负责人</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="534" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5F7AA78A">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>姓名</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="668" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7D1756CF">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="688" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4BB6D1CA">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>技术职称</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="635" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3071455A">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="638" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4A92D9A9">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>电话</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="620" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2883BC8B">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>123456789</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="66777EB2">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="15204958">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>企业资质证书</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3782" w:type="pct"/>
+                        <w:gridSpan w:val="7"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7DD7836E">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>类型：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">           </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>等级：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">          </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>证书号：</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="0EC7F4D6">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6311DFFD">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>质量管理体系证书</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="1E5DE054">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>（如有）</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3782" w:type="pct"/>
+                        <w:gridSpan w:val="7"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0A039F71">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>类型：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">           </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>等级：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">          </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>证书号：</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="17BDB9A0">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="26CBD53E">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>营业执照号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1202" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1C142C03">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2580" w:type="pct"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="09542098">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>员工总人数：</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="577F0EA0">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6CA3BEA9">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>注册资本</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1202" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5CE2664C">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="688" w:type="pct"/>
+                        <w:vMerge w:val="restart"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4AEA0BB8">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>其中</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="946" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5D6D56CA">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>高级职称人员</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="947" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1ACC379C">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    <w:r><w:t>王五</w:t></w:r></w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="424C05EB">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0B4FA063">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>成立日期</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1202" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0D2C2A98">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="60683A4C">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="946" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7B2538E5">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>中级职称人员</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="947" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3A9D2C47">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="4D9A8C22">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0B576EAF">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>基本账户开户银行</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1202" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5415D14A">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6BD87916">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="946" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="64A74C7C">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>技术人员数量</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="947" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="35FDBED4">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="6AFF458C">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7386AD17">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>基本账户银行账号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1202" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0E03A110">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="688" w:type="pct"/>
+                        <w:vMerge w:val="continue"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6BD5FE94">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="946" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3E4453AD">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>各类注册人员</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="947" w:type="pct"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7EBA8F31">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="25669CEF">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0EDDEFC5">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>经营范围</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3782" w:type="pct"/>
+                        <w:gridSpan w:val="7"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7B228BF6">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="3B3010DF">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="nil"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4D486D29">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>投标人关联企业情况（包括但不限于与投标人法定代表人（单位负责人）为同一人或者存在控股、管理关系的不同单位）</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3782" w:type="pct"/>
+                        <w:gridSpan w:val="7"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="nil"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4A8B7725">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w14:paraId="54A739CC">
+                <w:tblPrEx>
+                    <w:tblCellMar>
+                        <w:top w:w="0" w:type="dxa"/>
+                        <w:left w:w="0" w:type="dxa"/>
+                        <w:bottom w:w="0" w:type="dxa"/>
+                        <w:right w:w="0" w:type="dxa"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:val="454" w:hRule="atLeast"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1218" w:type="pct"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3CBC4AEE">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia" w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:szCs w:val="22"/>
+                                <w:lang w:eastAsia="zh-CN"/>
+                            </w:rPr>
+                            <w:t>备注</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3782" w:type="pct"/>
+                        <w:gridSpan w:val="7"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:left w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:bottom w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                            <w:right w:val="single" w:color="auto" w:sz="8" w:space="0"/>
+                        </w:tcBorders>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4EFD963A">
+                        <w:pPr>
+                            <w:widowControl w:val="0"/>
+                            <w:suppressAutoHyphens/>
+                            <w:jc w:val="both"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:eastAsia="宋体"/>
+                                <w:kern w:val="2"/>
+                                <w:sz w:val="21"/>
+                                <w:lang w:eastAsia="ar-SA"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="7CE4D5EE">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:spacing w:before="14" w:after="120" w:line="328" w:lineRule="auto"/>
+                <w:ind w:left="100" w:right="102"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>注：1.投标人应根据投标人须知第 3.5.1 项的要求在本表后附相关证明材料。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5377F1B8">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:suppressAutoHyphens/>
+                <w:spacing w:before="14" w:after="120" w:line="326" w:lineRule="auto"/>
+                <w:ind w:left="115" w:leftChars="48" w:right="102" w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:eastAsia="宋体"/>
+                    <w:kern w:val="2"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>2.如果投标人须知第 1.4.1 项对投标货物制造商的资质提出了要求，投标人应根据投标人须知第 3.5.1 项的要求在本表后附相关资质证书复印件。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7D05F397">
+            <w:pPr>
+                <w:suppressAutoHyphens/>
+                <w:wordWrap w:val="0"/>
+                <w:spacing w:line="329" w:lineRule="auto"/>
+                <w:ind w:firstLine="480" w:firstLineChars="200"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:sectPr>
+                    <w:headerReference r:id="rId20" w:type="first"/>
+                    <w:footerReference r:id="rId23" w:type="first"/>
+                    <w:headerReference r:id="rId18" w:type="default"/>
+                    <w:footerReference r:id="rId21" w:type="default"/>
+                    <w:headerReference r:id="rId19" w:type="even"/>
+                    <w:footerReference r:id="rId22" w:type="even"/>
+                    <w:pgSz w:w="11906" w:h="16838"/>
+                    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+                    <w:cols w:space="720" w:num="1"/>
+                    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+                </w:sectPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>3.投标人须登录国家企业信用信息公示系统（http://www.gsxt.gov.cn/index.html）提供本企业“营业执照信息”及“股东及出资信息”</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体" w:eastAsia="宋体" w:cs="宋体"/>
+                    <w:lang w:eastAsia="zh-CN" w:bidi="ar"/>
+                </w:rPr>
+                <w:t>截图并附在本表后，详见示例</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="62180102"/>
+        <w:sectPr>
+            <w:headerReference r:id="rId24" w:type="default"/>
+            <w:footerReference r:id="rId25" w:type="default"/>
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+            <w:cols w:space="425" w:num="1"/>
+            <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

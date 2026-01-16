@@ -8,5 +8,5 @@ def docx_to_xml(path, output_xml='template.xml'):
     with open(output_xml, "w", encoding="utf-8") as f:
         f.write(xml_content)
 
-file_path = "template.docx"
+file_path = "template2.docx"
 xml_data = docx_to_xml(file_path)

@@ -69,6 +69,6 @@ def xml_to_docx(xml_file, output_docx, template_docx='template.docx'):
 
 if __name__ == '__main__':
     # 假设你已经合并了XML并修改了内容
-    success = xml_to_docx('merged_document.xml', 'output_document.docx', 'template.docx')
+    success = xml_to_docx('filled_result.xml', 'output_document.docx', 'template.docx')
     if success:
         print("\n现在你可以用Word打开 output_document.docx 了！")
